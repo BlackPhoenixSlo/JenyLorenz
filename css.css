@@ -214,13 +214,12 @@ color: ;
 }
 .dots{
   display:flex;
-  width: 15%; 
   justify-content: space-between;
-  
+  font-family: 'Courier New', Courier, monospace;
   position:absolute;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 35px;
+  bottom: 15px;
   
 
 
