@@ -73,6 +73,7 @@ body {
   left: 15px;
   width: 10vh;
   height: 10vh;
+  z-index: 100;
 }
 
 .innerContainer{
