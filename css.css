@@ -107,14 +107,12 @@ body {
 }
 
 .innerContainer > h2 {
-  color: blue;
   
   font-family: Montserrat;
   font-size: 22px;
   font-weight: 600;
   line-height: 27px;
   letter-spacing: 0px;
-  color: #2F463D;
 
 }
 
@@ -198,7 +196,8 @@ color: ;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   background: transparent;
   border-radius: 20px;
-  border: 2px solid black;
+  border: 2px solid white;
+  box-shadow: 2px 4px rgba(0, 0, 0, 0.25);
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 800;
@@ -264,10 +263,16 @@ color: ;
 p{
   font-size: 18px;
   margin-bottom: 00px;
-
+  color: white;
 }
 
-@media only screen and (max-width: 991px) {
+
+.title{
+  color: white;
+}
+
+
+@media only screen and (max-width: 980px) {
   body{
   background-color: black ;
   }
