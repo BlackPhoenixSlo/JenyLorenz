@@ -316,7 +316,7 @@ p{
 
     width: 70vw;
     margin: 1vw 0 2vw 0;
-    font-size: 24px;
+    font-size: 32px;
     color: black;
     text-shadow: white;
 
@@ -358,6 +358,7 @@ p{
   .img{
     height: 90px;
     margin-bottom: 20px;
+    
    }
 
    .blogo{
@@ -365,6 +366,7 @@ p{
    }
    .logo{
     top:20px;
+    z-index: 9999;
    }
   
 
