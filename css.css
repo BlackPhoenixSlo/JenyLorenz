@@ -443,3 +443,12 @@ border-radius: 5px;
   }
   
 }
+
+@media screen and (max-width: 992px) and (orientation: landscape) {
+  .panel2{
+    position: relative;
+    width: 100vw;
+    height: 240vh;
+    margin: 0;
+  }
+}
