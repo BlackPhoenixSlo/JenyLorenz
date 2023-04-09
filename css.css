@@ -391,7 +391,7 @@ p{
       width: 350px;
       min-height: auto;
       height: 80vh;
-    background-image: url(1.jpeg);
+    background-image: url(1.png);
     background-size: cover;
 
       z-index: 1 ;
@@ -401,7 +401,7 @@ p{
 
    .panel3 {
     display: block;
-    background-image: url(3.jpeg) ;
+    background-image: url(3.png) ;
     background-size: cover;
 
       width: 350px;
@@ -442,4 +442,13 @@ background: #BDBDBD;
 border-radius: 5px;
   }
   
+}
+
+@media screen and (max-width: 992px) and (orientation: landscape) {
+  .panel2{
+    position: relative;
+    width: 100vw;
+    height: 240vh;
+    margin: 0;
+  }
 }
