@@ -96,7 +96,7 @@ body {
 .flex{
   display: flex;
   align-items: center;
-  margin: 20px 0 10px 36vw;  
+  margin: 20px 0 10px 40vw;  
  
 }
 
@@ -204,7 +204,7 @@ color: ;
   width: 100%;
   height: 50px;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-  background: transparent;
+  background: rgba(0, 0, 0, 0.28);
   border-radius: 20px;
   border: 2px solid white;
   box-shadow: 2px 4px rgba(0, 0, 0, 0.25);
@@ -317,7 +317,7 @@ p{
     width: 70vw;
     margin: 1vw 0 2vw 0;
     font-size: 24px;
-    color: black;
+    color: rgb(227, 227, 227);
     text-shadow: white;
 
   }
@@ -391,7 +391,7 @@ p{
       width: 350px;
       min-height: auto;
       height: 80vh;
-    background-image: url(1.jpeg);
+    background-image: url(1.jpg);
     background-size: cover;
 
       z-index: 1 ;
@@ -438,7 +438,7 @@ p{
   .panel1 .button-cnf , .panel3 .button-cnf  {
     display: none;
 background: #BDBDBD;
-    box-shadow: 0px 20px 20px rgba(167, 167, 167, 0.2);
+    box-shadow: 0px 20px 20px rgba(167, 167, 167, 0.054);
 border-radius: 5px;
   }
   
