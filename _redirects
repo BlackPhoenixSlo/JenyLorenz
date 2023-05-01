@@ -1,6 +1,5 @@
 # Redirects from what the browser requests to what we serve
 /home                /
-/twitter             /?utm_source=twitter&utm_medium=link&utm_campaign=bio
 /ig                 /?utm_source=instagram&utm_medium=link&utm_campaign=bio_ig
 /tiktok              /?utm_source=tiktok&utm_medium=link&utm_campaign=bio_tiktok  
 /reddit             /?utm_source=reddit&utm_medium=link&utm_campaign=bio_reddit         
@@ -11,5 +10,4 @@
 /authors/c%C3%A9line /authors/about-c%C3%A9line
 https://aavarenae.com          thrivemodels.co
 /me                 thrivemodels.co/ourmodels/aavarenae/ava_ray.html
-/                thrivemodels.co/ourmodels/aavarenae/ava_ray.html
-/*                thrivemodels.co/ourmodels/aavarenae/ava_ray.html
+
