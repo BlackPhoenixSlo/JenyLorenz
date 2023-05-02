@@ -1,5 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /home                /
+/text-me              https://onlyfans.com/aapricott/c10
 /twitter             /twitter.html?utm_source=twitter&utm_medium=link&utm_campaign=bio_twitter  
 /ig                 /?utm_source=instagram&utm_medium=link&utm_campaign=bio_ig
 /tiktok              /?utm_source=tiktok&utm_medium=link&utm_campaign=bio_tiktok  
