@@ -153,7 +153,7 @@ text-align: center;
   height: 250px;
   align-items: flex-end;
   margin: 40px 0 40px;
-  background-image:url("https://www.shutterstock.com/image-photo/little-girl-high-key-studio-260nw-144407095.webp");
+  background-image:url("https://www.shutterstock.com/image-photo/little-girl-high-key-studio-260nw-144407095.png");
 }
 
 .food-name-price{
@@ -405,7 +405,7 @@ p{
       width: 350px;
       min-height: auto;
       height: 80vh;
-    background-image: url(1.webp);
+    background-image: url(1.jpg);
     background-size: cover;
 
       z-index: 1 ;
@@ -415,7 +415,7 @@ p{
 
    .panel3 {
     display: block;
-    background-image: url(3.webp) ;
+    background-image: url(3.jpg) ;
     background-size: cover;
 
       width: 350px;
