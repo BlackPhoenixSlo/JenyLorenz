@@ -261,7 +261,10 @@ color: ;
 }
 
 .panel2{
-  background: transparent;
+    background-image: url("pic.jpg");
+background-size: cover;
+
+  background-size: cover;
  }
 
 .green{
@@ -312,6 +315,10 @@ p{
     width: 100vw;
     height: 100vh;
     margin: 0;
+      background-image: url("pic.jpg");
+background-size: cover;
+
+
   }
  
   .panel2 #logo {
@@ -370,8 +377,7 @@ p{
    }
 
    .panel2{
-    background: transparent;
-   }
+     }
 
 
    .logo{
@@ -391,7 +397,10 @@ p{
     height: 90vh;
     z-index: 9;
     margin: 5vh 0;
-    background: transparent;
+        background-image: url("pic.jpg");
+background-size: cover;
+
+
 
   }
   
@@ -464,5 +473,9 @@ border-radius: 5px;
     width: 100vw;
     height: 240vh;
     margin: 0;
+      background-image: url("pic.jpg");
+background-size: cover;
+
+
   }
 }
