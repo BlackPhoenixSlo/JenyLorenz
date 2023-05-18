@@ -316,7 +316,7 @@ p{
     height: 100vh;
     margin: 0;
     background-image: url("pic.jpg");  
-    background-size: cover;
+     background-size: cover;
 
 
   }
