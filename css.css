@@ -261,7 +261,7 @@ color: ;
 }
 
 .panel2{
-    background-image: url("pic.jpg");
+    background-image: url("pic.gif");
 background-size: cover;
 
   background-size: cover;
@@ -315,8 +315,8 @@ p{
     width: 100vw;
     height: 100vh;
     margin: 0;
-      background-image: url("pic.jpg");
-background-size: cover;
+    background-image: url("pic.gif");  
+     background-size: cover;
 
 
   }
@@ -397,7 +397,7 @@ background-size: cover;
     height: 90vh;
     z-index: 9;
     margin: 5vh 0;
-        background-image: url("pic.jpg");
+        background-image: url("pic.gif");
 background-size: cover;
 
 
@@ -473,7 +473,7 @@ border-radius: 5px;
     width: 100vw;
     height: 240vh;
     margin: 0;
-      background-image: url("pic.jpg");
+      background-image: url("pic.gif");
 background-size: cover;
 
 
