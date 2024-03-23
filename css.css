@@ -391,7 +391,7 @@ p{
       width: 350px;
       min-height: auto;
       height: 80vh;
-    background-image: url(1.png);
+    background-image: url(file.png);
     background-size: cover;
 
       z-index: 1 ;
@@ -401,7 +401,7 @@ p{
 
    .panel3 {
     display: block;
-    background-image: url(3.png) ;
+    background-image: url(file.jpeg) ;
     background-size: cover;
 
       width: 350px;
