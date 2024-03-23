@@ -403,7 +403,7 @@ p{
   
    .panel1 {
     display: block;
-      width: 500px;
+      width: 450px;
       min-height: auto;
       height: 80vh;
     background-image: url(file.jpg);
@@ -419,7 +419,7 @@ p{
     background-image: url(file.jpeg) ;
     background-size: cover;
 
-      width: 500px;
+      width: 450px;
       min-height: auto;
     height: 80vh;
       z-index: 1 ;
