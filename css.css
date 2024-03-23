@@ -303,6 +303,9 @@ p{
     width: 100vw;
     height: 100vh;
     margin: 0;
+    background-image: url(ezgif-5-c1e7e25996.gif);
+    background-size: cover;
+
   }
  
   .panel2 #logo {
@@ -388,10 +391,10 @@ p{
   
    .panel1 {
     display: block;
-      width: 350px;
+      width: 500px;
       min-height: auto;
       height: 80vh;
-    background-image: url(file.png);
+    background-image: url(file.jpg);
     background-size: cover;
 
       z-index: 1 ;
@@ -404,7 +407,7 @@ p{
     background-image: url(file.jpeg) ;
     background-size: cover;
 
-      width: 350px;
+      width: 500px;
       min-height: auto;
     height: 80vh;
       z-index: 1 ;
