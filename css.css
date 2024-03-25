@@ -292,8 +292,7 @@ p{
 @media only screen and (max-width: 980px) {
   body{
   background-color: black ;
-  background-image: url(ezgif-5-c1e7e25996.gif);
-    background-size: cover;
+
   }
 
 
@@ -311,8 +310,7 @@ p{
     width: 100vw;
     height: 100vh;
     margin: 0;
-    background-image: url(ezgif-5-c1e7e25996.gif);
-    background-size: cover;
+
   }
  
   .panel2 #logo {
@@ -431,8 +429,7 @@ p{
   }
   .panel2 {
     display: block;
-    background-image: url(ezgif-5-c1e7e25996.gif);
-    background-size: cover;
+
 
 
   }
@@ -475,14 +472,13 @@ border-radius: 5px;
     width: 100vw;
     height: 240vh;
     margin: 0;
-    background-image: url(ezgif-5-c1e7e25996.gif);
-    background-size: cover;
+
   }
 }
 
 .panel2 {
   display: block;
-  background-image: url(ezgif-5-c1e7e25996.gif);
+  background-image: url(ezgif-1-fcf92e134f.webp);
   background-size: cover;
 
 
