@@ -82,10 +82,7 @@ body {
   z-index: 100;
 }
 
-.allContainer{
-  background-image:  url('pexels-mali-maeder-219095.webp') ;
-  background-size: cover;
-}
+
 
 .innerContainer{
     width: 100%;
@@ -295,6 +292,8 @@ p{
 @media only screen and (max-width: 980px) {
   body{
   background-color: black ;
+  background-image: url(ezgif-5-c1e7e25996.gif);
+    background-size: cover;
   }
 
 
@@ -312,6 +311,8 @@ p{
     width: 100vw;
     height: 100vh;
     margin: 0;
+    background-image: url(ezgif-5-c1e7e25996.gif);
+    background-size: cover;
   }
  
   .panel2 #logo {
@@ -382,7 +383,10 @@ p{
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-  
+  .allContainer{
+    background-image:  url('pexels-mali-maeder-219095.webp') ;
+    background-size: cover;
+  }
   .wlogo{
     display: none;
    }
@@ -391,7 +395,7 @@ p{
     height: 90vh;
     z-index: 9;
     margin: 5vh 0;
-    background: transparent;
+    
 
   }
   
@@ -402,10 +406,10 @@ p{
   
    .panel1 {
     display: block;
-      width: 350px;
+      width: 450px;
       min-height: auto;
       height: 80vh;
-    background-image: url(1.jpg);
+    background-image: url(filejpg.webp);
     background-size: cover;
 
       z-index: 1 ;
@@ -415,17 +419,23 @@ p{
 
    .panel3 {
     display: block;
-    background-image: url(3.jpg) ;
+    background-image: url(filejpeg.webp) ;
     background-size: cover;
 
-      width: 350px;
+      width: 450px;
       min-height: auto;
     height: 80vh;
       z-index: 1 ;
       border-radius: 0 30px 30px 0 ;
 
   }
-  
+  .panel2 {
+    display: block;
+    background-image: url(ezgif-5-c1e7e25996.gif);
+    background-size: cover;
+
+
+  }
   .panel1 h2  {
   margin-top: 25px;
 
@@ -461,8 +471,19 @@ border-radius: 5px;
 @media screen and (max-width: 992px) and (orientation: landscape) {
   .panel2{
     position: relative;
+    
     width: 100vw;
     height: 240vh;
     margin: 0;
+    background-image: url(ezgif-5-c1e7e25996.gif);
+    background-size: cover;
   }
+}
+
+.panel2 {
+  display: block;
+  background-image: url(ezgif-5-c1e7e25996.gif);
+  background-size: cover;
+
+
 }
