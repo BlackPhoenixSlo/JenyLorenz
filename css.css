@@ -404,10 +404,10 @@ p{
   
    .panel1 {
     display: block;
-      width: 450px;
+      width: 550px;
       min-height: auto;
       height: 80vh;
-    background-image: url(filejpg.webp);
+    background-image: url(IMG_8957.JPG);
     background-size: cover;
 
       z-index: 1 ;
@@ -417,10 +417,10 @@ p{
 
    .panel3 {
     display: block;
-    background-image: url(filejpeg.webp) ;
+    background-image: url(Picsart_24-04-08_01-22-18-557.jpg) ;
     background-size: cover;
 
-      width: 450px;
+      width: 550px;
       min-height: auto;
     height: 80vh;
       z-index: 1 ;
@@ -478,8 +478,7 @@ border-radius: 5px;
 
 .panel2 {
   display: block;
-  background-image: url(ezgif-5-c1e7e25996.webp);
-  background-image: url(ezgif-1-3df6b1672b-ezgif.com-gif-to-webp-converter.webp);
+  background-image: url(Picsart_24-04-08_00-45-26-205.jpg);
   background-size: cover;
 
 
